@@ -1,0 +1,9 @@
+[3] 12:17:43: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Salesforce\Salesforce.tws'
+[3] 12:17:43: Log level: 4
+[3] 12:17:43: Release: 14.2.0.36604
+[4] 12:17:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:17:43:  ShowStatusInfo: 'Ready'
+[4] 12:17:45:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:17:45:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:17:58:  ShowStatusInfo: 'Ready'

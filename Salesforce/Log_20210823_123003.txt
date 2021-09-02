@@ -1,0 +1,69 @@
+[3] 12:30:03: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Salesforce\Salesforce.tws'
+[3] 12:30:03: Log level: 4
+[3] 12:30:03: Release: 14.2.0.36604
+[3] 12:30:03: No service discovery configured.
+[3] 12:30:03:  - CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 14.2.0.262 (36571)
+[3] 12:30:03:  + DistributedExecutionAddIn: DistributedExecutionAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + IntegrationManagementAddIn: IntegrationManagementAddIn 14.2.0.262 (36422)
+    - : QTestIntegration 14.2.0.149 (149)
+    + : SAPSolutionManagerIntegration 14.2.0.149 (149)
+[3] 12:30:03: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:30:03: Searcher found 0 results in 6.0114 ms
+[3] 12:30:03:  + OptIntAddIn: OptIntAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + QTestIntegrationAddIn: QTestIntegrationAddIn 14.2.0.262 (36486)
+[3] 12:30:03:  + RemoteControl: RemoteControlAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + Reporting: ReportingAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + ReportingUI: ReportingUIAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + RequirementsManagementAddIn: RequirementsManagement 14.2.0.262 (36476)
+[3] 12:30:03:  + RequirementsManagementUIAddIn: RequirementsManagementUI 14.2.0.262 (36303)
+[3] 12:30:03:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 14.2.0.262 (36583)
+[3] 12:30:03:  + TestCaseDesign: TestCaseDesign 14.2.0.262 (36303)
+[3] 12:30:03:  + ControlFlowDiagram: TestCaseVisualizationAddIn 14.2.0.262 (36303)
+[3] 12:30:03:  + XDefinitions: XDefinitions 14.2.0.262 (36576)
+[3] 12:30:03:  + XDefinitionsUI: XDefinitionsUI 14.2.0.262 (36460)
+[3] 12:30:03: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Salesforce\Salesforce.tws'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:30:05:  ShowStatusInfo: 'Ready'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:30:05:  ShowStatusInfo: 'Ready'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:30:05:  ShowStatusInfo: 'Ready'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:30:05:  ShowStatusInfo: 'Ready'
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:30:05:  ShowStatusInfo: 'Refresh all finished'
+[0] 12:30:05: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 12:30:05: OpenWorkspace took 00:00:03.7990326 to finish
+[4] 12:30:10:  ShowStatusInfo: 'Ready'
+[3] 12:36:44: Closing Workspace!
+[3] 12:36:44: Log closed!
